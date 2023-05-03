@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-     <img src ="https://www.canva.com/design/DAFh13nLQns/Kx1CJcAivy_nzYl48HOH9Q/view?utm_content=DAFh13nLQns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+
      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
