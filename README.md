@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+   <img src=”https://userimages.githubusercontent.com/121751465/235859125-1481f83b-0589-4370-ba32-944eedf509c6.png" alt=”my banner” width="100"/>
+</div>
 <!--
 **belhassen-b/belhassen-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src=”https://userimages.githubusercontent.com/121751465/235859125-1481f83b-0589-4370-ba32-944eedf509c6.png" alt=”my banner”>
