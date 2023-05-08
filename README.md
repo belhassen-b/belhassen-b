@@ -12,7 +12,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 
-- :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belhassen-beague-29aa0795/overlay/contact-info/)
+- :mailbox:How to reach me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/belhassen-beague-29aa0795?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbPgv4T7RRFmeuNJ0iBZc%2Bw%3D%3D)
+&nbsp;
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belhassen-b&theme=dark&background=000000)](https://git.io/streak-stats)
