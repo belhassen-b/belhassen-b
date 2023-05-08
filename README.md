@@ -1,13 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+</div>
 
----
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJjYzU4YmRlNjM2M2RlNTBhZjEwZDE2MTA4NWM3NWY4ODE2NjI5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l2SpTXlLhThF29ai4/giphy.gif" width="600"  height="400"/>
+</div>
 
+****
+### Bonjour à tous  / Hi there 👋   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+****
 ### :woman_technologist: About Me :
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , still learning at school for the moment ...
+I am a Full Stack Developer  , still learning at school for the moment ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-- :telescope: I’m working as a System Administrator for about 10 years.
+[![progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=School-Learning&value=65)](https://github.com/harish-sethuraman/readme-components)
+
+- :telescope: I’m working as a System Administrator for about 10 years and now i want to be Full Stack Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -17,14 +26,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 &nbsp;
 
 
-
 ****
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belhassen-b&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belhassen-b&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+****
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,23 +52,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<!--
-**belhassen-b/belhassen-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src=”https://userimages.githubusercontent.com/121751465/235859125-1481f83b-0589-4370-ba32-944eedf509c6.png" alt=”my banner”>
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
